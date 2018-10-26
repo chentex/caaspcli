@@ -1,0 +1,32 @@
+--- 
+user:
+  email: "test@teest.com"
+  password: "asdkfhasdf"
+internal_dashboard_location: "dashboard.qa.com"
+tiller: false
+net-settings:
+  cluster_cidr: "asdf"
+  cluster_cidr_lower_bound: "asdfasd"
+  cluster_cidr_upper: "asdfasdf"
+  node_allocation_size: 23
+  services_cidr: "dfasdf"
+  api_ip_address: "10.17.1.0"
+  dns_ip_address: "10.17.0.0"
+proxy: 
+  enabled: false 
+  http_proxy: "asdfasd"
+  https_proxy: "Asdfsadf"
+  no_proxy: "ASDfsadf"
+  use_proxy_systemwide: "Asdfasdf"
+suse_registry_mirror:
+  enabled: false
+  url: "Asdfsadf"
+  certificate: false
+  certificate_content: "asdfasdfasdfsadfasdfasdfasdf"
+container_runtime:  "docker"
+system_wide_certificate:
+  enabled: true
+  name: "SAfasdas"
+  certificate_content: "sdfsdfsdfsdfsdfsdfsdfkjhsdkjhfkjsdhfkshdfkjhskjf"
+external_kubernetes_api_fqdn: "adfadsfasdfasdfasdfasdf"
+external_dashboard_fqdn: "asdfasdfsadfsadfsadfsadf"
